@@ -1,0 +1,26 @@
+cdk-overlay-pane, .cdk-overlay-pane > div {
+    width: 100%;
+  
+    left: 0;
+  }
+  .nav-item {
+    margin-left: 100px;
+
+  
+  }
+  .container-fluid {
+    background-color: rgb(102, 94, 129);
+    height: 100px;
+  }
+  .list-group-item {
+    color: black;
+  }
+  #navbarDropdown{
+    color: red;
+  }
+.dropdown-menu{
+  background-color: whitesmoke;
+} 
+.container{
+  background-color: black;
+}
